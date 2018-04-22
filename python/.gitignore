@@ -1,0 +1,8 @@
+bpqcrypto.egg-info
+build
+dist
+
+bpqcrypto/*.dll
+bpqcrypto/*.dylib
+bpqcrypto/*.so
+bpqcrypto/*.so.*
